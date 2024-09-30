@@ -9,3 +9,4 @@ The LSTM model is built using deep learning frameworks like TensorFlow. We train
 
 # Evaluation and Result
 Once the model is trained, we evaluate its performance on the testing dataset. We compute various metrics such as mean squared error (MSE), root mean squared error (RMSE), and mean absolute error (MAE) to assess the model's accuracy. We visualize the predicted stock prices alongside the actual prices to gain insights into the model's performance.
+
